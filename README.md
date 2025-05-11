@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 - :incoming_envelope: Reach me: [LinkedIn](https://www.linkedin.com/in/glenn-ushakov/)
 - :loudspeaker: Follow me: [Leetcode](https://leetcode.com/GaspardLeMarque/) [Codewars](https://www.codewars.com/users/GaspardLeMarque)  
 <ul>
-  <li><b>Languages</b>: Python, R, JavaScript</li>
-  <li><b>Libraries</b>: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, BeautifulSoup, Tidyverse</li>
-  <li><b>Tools</b>: Bash, Docker</li>
-  <li><b>RDBMS</b>: MySQL</li>
-  <li><b>Deep Learning Frameworks</b>: PyTorch</li>
-  <li><b>Web Development Frameworks</b>: Django, jQuery</li> 
+  <li><b>Languages</b>: Python, JavaScript</li>
+  <li><b>Tools</b>: Bash, Docker, Podman, K8S, Ansible, AWX, vSphere, OpsView, Device42</li>
+  <li><b>RDBMS</b>: MySQL, PostgreSQL</li>
+  <li><b>Web Development Frameworks</b>: Django, Flask, NextJS</li> 
 </ul> 
 
